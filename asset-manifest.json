@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sass-portfolio-router-app/static/css/main.96a6dda5.css",
+    "main.js": "/sass-portfolio-router-app/static/js/main.ed960525.js",
+    "static/media/model-1.jpg": "/sass-portfolio-router-app/static/media/model-1.8056d92406091dba7223.jpg",
+    "index.html": "/sass-portfolio-router-app/index.html",
+    "main.96a6dda5.css.map": "/sass-portfolio-router-app/static/css/main.96a6dda5.css.map",
+    "main.ed960525.js.map": "/sass-portfolio-router-app/static/js/main.ed960525.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a6dda5.css",
+    "static/js/main.ed960525.js"
+  ]
+}
